@@ -53,7 +53,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'starter-resources',
+            'extra-resources',
           ]
         }
       ],
