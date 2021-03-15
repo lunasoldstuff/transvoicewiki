@@ -1,11 +1,11 @@
 ---
-title: Starter Resources
+title: Extra Resources
 ---
-# Starter Resources
+# Extra Resources
 
 <!-- Don't mind the extra title, it's required for the page -->
 
-If you're just getting started, you probably need some resources. Luckily, we have some for you!
+If you want extra resources, we have some for you!
 
 <!-- space -->
 
